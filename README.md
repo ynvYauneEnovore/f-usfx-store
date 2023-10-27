@@ -1,75 +1,75 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
-</p>
+# Tienda de USFX-STORE
 
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
+Este es el repositorio para la Tienda usfx-store, un proyecto de comercio electrónico que consta de un frontend desarrollado en Vue con Vite y un backend desarrollado en NestJS.
 
-  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
-    <p align="center">
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/dm/@nestjs/common.svg" alt="NPM Downloads" /></a>
-<a href="https://circleci.com/gh/nestjs/nest" target="_blank"><img src="https://img.shields.io/circleci/build/github/nestjs/nest/master" alt="CircleCI" /></a>
-<a href="https://coveralls.io/github/nestjs/nest?branch=master" target="_blank"><img src="https://coveralls.io/repos/github/nestjs/nest/badge.svg?branch=master#9" alt="Coverage" /></a>
-<a href="https://discord.gg/G7Qnnhy" target="_blank"><img src="https://img.shields.io/badge/discord-online-brightgreen.svg" alt="Discord"/></a>
-<a href="https://opencollective.com/nest#backer" target="_blank"><img src="https://opencollective.com/nest/backers/badge.svg" alt="Backers on Open Collective" /></a>
-<a href="https://opencollective.com/nest#sponsor" target="_blank"><img src="https://opencollective.com/nest/sponsors/badge.svg" alt="Sponsors on Open Collective" /></a>
-  <a href="https://paypal.me/kamilmysliwiec" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg"/></a>
-    <a href="https://opencollective.com/nest#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
-  <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
-</p>
-  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
-  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+## Descripción del Proyecto
 
-## Description
+Este proyecto es una tienda en línea que permite a los usuarios explorar y comprar una variedad de productos. El frontend proporciona una interfaz de usuario intuitiva y atractiva para los clientes, mientras que el backend maneja la lógica de negocio, la autenticación y la gestión de productos.
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+## Tecnologías Utilizadas
 
-## Installation
+- Frontend: Vue.js, Vite, CSS, HTML
+- Backend: NestJS, Node.js
+- Base de Datos: (Agrega aquí la base de datos que estás utilizando)
+- Otros: (Agrega aquí cualquier otra tecnología o biblioteca relevante)
 
-```bash
-$ npm install
-```
+## Inicio Rápido
 
-## Running the app
+1. **Clonar el repositorio:**
 
-```bash
-# development
-$ npm run start
+<pre><code>
+git clone https://github.com/ynvYauneEnovore/tu-tienda.git
+cd tu-tienda
+</code></pre>
 
-# watch mode
-$ npm run start:dev
+2. **Instalar dependencias:**
 
-# production mode
-$ npm run start:prod
-```
+Para el frontend:
 
-## Test
+<pre><code>
+git clone https://github.com/ynvYauneEnovore/tu-tienda.git
+cd tu-tienda
+</code></pre>
 
-```bash
-# unit tests
-$ npm run test
+<pre><code>
+cd frontend
+npm install
+</code></pre>
 
-# e2e tests
-$ npm run test:e2e
+Para el backend:
 
-# test coverage
-$ npm run test:cov
-```
+<pre><code>
+git clone https://github.com/ynvYauneEnovore/tu-tienda.git
+cd tu-tienda
+</code></pre>
 
-## Support
+<pre><code>
+cd backend
+npm install
+</code></pre>
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
-## Stay in touch
+## Contribución
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+Agradecemos las contribuciones a este proyecto. Si deseas contribuir, sigue estos pasos:
 
-## License
+1. Haz un fork del repositorio.
+2. Crea una rama para tu contribución: `git checkout -b feature/nueva-funcionalidad`.
+3. Realiza tus cambios y confirma: `git commit -m "Agrega nueva funcionalidad"`.
+4. Envía tus cambios a tu fork: `git push origin feature/nueva-funcionalidad`.
+5. Crea una solicitud de extracción (Pull Request) en este repositorio.
 
-Nest is [MIT licensed](LICENSE).
-# f-usfx-store
-# f-usfx-store
+Esperamos tus contribuciones para mejorar este proyecto.
+
+
+## Contacto
+
+- Nombre: Yovan Enovore
+- Correo Electrónico: [yovanuxf@gmail.com](mailto:yovanuxf@gmail.com)
+
+## Galeria
+![Logo-docker](https://raw.githubusercontent.com/ynvYauneEnovore/b-usfx-store/main/src/assets/gif/1.gif)
+
+## Licencia
+
+Este proyecto está bajo [tu-licencia-personalizada](LICENSE.txt). Consulta el archivo [LICENSE.txt](LICENSE.txt) para obtener más detalles.
